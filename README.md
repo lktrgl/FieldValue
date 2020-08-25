@@ -2,7 +2,7 @@
 How to start:
 ```
 git clone --recurse-submodules --verbose --remote --progress https://github.com/lktrgl/FieldValue.git \
-    && cd VentCtrlStm8 \
+    && cd FieldValue \
     && mkdir build \
     && cd build \
     && cmake .. \
